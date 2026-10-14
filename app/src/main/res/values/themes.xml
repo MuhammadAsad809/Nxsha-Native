@@ -4,15 +4,13 @@
     <!-- Base application theme -->
     <style name="Theme.NxshaApp" parent="Theme.Material3.Dark.NoActionBar">
         <item name="colorPrimary">@color/nxsha_red</item>
-        <item name="colorPrimaryVariant">@color/nxsha_red_dark</item>
         <item name="colorOnPrimary">@color/white</item>
         <item name="colorSecondary">@color/nxsha_accent</item>
         <item name="colorOnSecondary">@color/white</item>
         <item name="colorSurface">@color/surface</item>
         <item name="colorOnSurface">@color/text_primary</item>
-        <item name="colorBackground">@color/background_dark</item>
-        <item name="colorOnBackground">@color/text_primary</item>
         <item name="colorError">@color/error_red</item>
+        <item name="android:colorBackground">@color/background_dark</item>
         <item name="android:windowBackground">@color/background_dark</item>
         <item name="android:statusBarColor">@color/background_dark</item>
         <item name="android:navigationBarColor">@color/background_dark</item>
