@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing scale (4dp grid) -->
+    <dimen name="spacing_xxs">2dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">12dp</dimen>
+    <dimen name="spacing_base">16dp</dimen>
+    <dimen name="spacing_lg">20dp</dimen>
+    <dimen name="spacing_xl">24dp</dimen>
+    <dimen name="spacing_xxl">32dp</dimen>
+    <dimen name="spacing_xxxl">48dp</dimen>
+
+    <!-- Media cards -->
+    <dimen name="card_width_portrait">120dp</dimen>
+    <dimen name="card_height_portrait">180dp</dimen>
+    <dimen name="card_width_wide">200dp</dimen>
+    <dimen name="card_height_wide">112dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+    <!-- Continue watching card -->
+    <dimen name="continue_card_width">180dp</dimen>
+    <dimen name="continue_card_height">108dp</dimen>
+    <dimen name="continue_progress_height">3dp</dimen>
+
+    <!-- Episode card -->
+    <dimen name="episode_thumb_width">120dp</dimen>
+    <dimen name="episode_thumb_height">68dp</dimen>
+
+    <!-- Typography -->
+    <dimen name="text_xs">10sp</dimen>
+    <dimen name="text_sm">12sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_md">16sp</dimen>
+    <dimen name="text_lg">18sp</dimen>
+    <dimen name="text_title">20sp</dimen>
+    <dimen name="text_headline">24sp</dimen>
+
+    <!-- Toolbar / AppBar -->
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="bottom_nav_height">56dp</dimen>
+
+    <!-- Player controls -->
+    <dimen name="player_control_button_size">48dp</dimen>
+    <dimen name="player_play_button_size">64dp</dimen>
+    <dimen name="player_progress_height">4dp</dimen>
+    <dimen name="player_progress_thumb_size">14dp</dimen>
+    <dimen name="player_gesture_edge_zone">80dp</dimen>
+
+    <!-- Detail / Bottom sheet -->
+    <dimen name="bottom_sheet_peek_height">300dp</dimen>
+    <dimen name="detail_backdrop_height">220dp</dimen>
+    <dimen name="detail_poster_width">80dp</dimen>
+    <dimen name="detail_poster_height">120dp</dimen>
+
+    <!-- Minimum touch targets (Material accessibility guideline) -->
+    <dimen name="min_touch_target">48dp</dimen>
+</resources>

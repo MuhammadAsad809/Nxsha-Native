@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="nxsha_red">#E50914</color>
+    <color name="nxsha_red_dark">#B20710</color>
+    <color name="nxsha_accent">#FF6B35</color>
+
+    <!-- Background Palette -->
+    <color name="background_dark">#0F0F0F</color>
+    <color name="background_card">#1A1A1A</color>
+    <color name="surface">#141414</color>
+    <color name="surface_elevated">#1E1E1E</color>
+    <color name="surface_overlay">#2A2A2A</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_hint">#66FFFFFF</color>
+    <color name="text_disabled">#40FFFFFF</color>
+
+    <!-- UI Elements -->
+    <color name="divider">#1FFFFFFF</color>
+    <color name="ripple">#33FFFFFF</color>
+    <color name="icon_tint">#CCFFFFFF</color>
+    <color name="badge_background">#E50914</color>
+
+    <!-- Status / Feedback -->
+    <color name="error_red">#CF6679</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_amber">#FFC107</color>
+    <color name="info_blue">#2196F3</color>
+
+    <!-- Player Overlay -->
+    <color name="player_overlay_bg">#99000000</color>
+    <color name="player_controls_bg">#66000000</color>
+    <color name="player_progress_buffered">#66FFFFFF</color>
+    <color name="player_progress_played">#E50914</color>
+
+    <!-- Continue watching progress bar -->
+    <color name="progress_bar_bg">#33FFFFFF</color>
+    <color name="progress_bar_fill">#E50914</color>
+
+    <!-- Skeleton loading shimmer -->
+    <color name="shimmer_base">#1F1F1F</color>
+    <color name="shimmer_highlight">#2E2E2E</color>
+
+    <!-- Always-use system colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

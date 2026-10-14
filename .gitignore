@@ -1,0 +1,26 @@
+# Built artifacts
+*.iml
+.gradle/
+build/
+/captures
+.externalNativeBuild/
+.cxx/
+
+# IDE
+/.idea/
+*.iml
+.idea/
+
+# Local configuration
+local.properties
+
+# OS / Editor temp files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Keystore (never commit)
+*.jks
+*.keystore
+release-signing.properties
