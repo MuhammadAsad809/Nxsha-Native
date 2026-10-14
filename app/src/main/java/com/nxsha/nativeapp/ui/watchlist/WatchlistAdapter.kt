@@ -60,7 +60,7 @@ class WatchlistAdapter(
     companion object {
         private val DIFF_CALLBACK = object : DiffUtil.ItemCallback<WatchlistEntity>() {
             override fun areItemsTheSame(a: WatchlistEntity, b: WatchlistEntity) =
-                a.mediaId == b.mediaId && a.mediaType == b.mediaType
+                a.id == b.id
 
             override fun areContentsTheSame(a: WatchlistEntity, b: WatchlistEntity) = a == b
         }
