@@ -124,7 +124,7 @@ If FebBox returns no sources, `StreamResolver` falls back to the bundled public 
 Located in [`CatalogRepository.kt`](app/src/main/java/com/nxsha/nativeapp/data/repository/CatalogRepository.kt):
 
 ```kotlin
-private const val TMDB_API_KEY = "38b975e52514faec09968840c9584d4d"
+private const val TMDB_API_KEY = "8476a7ab80ad76f0936744df0430e67c"
 ```
 
 Replace with your own free key from [themoviedb.org/settings/api](https://www.themoviedb.org/settings/api).

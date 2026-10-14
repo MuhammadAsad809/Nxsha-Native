@@ -21,8 +21,8 @@ class CatalogRepository {
 
     private val gson = Gson()
 
-    // Public demo TMDB Read API key for client-side direct queries
-    private val apiKey = "38b975e52514faec09968840c9584d4d"
+    // TMDB API key for client-side direct queries
+    private val apiKey = "8476a7ab80ad76f0936744df0430e67c"
     private val baseUrl = "https://api.themoviedb.org/3"
 
     suspend fun getTrendingMovies(): List<MediaItem> = withContext(Dispatchers.IO) {
